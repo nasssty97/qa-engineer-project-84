@@ -1,0 +1,79 @@
+summary: |
+Проверка перехода с сайта в корзину 
+status: pass
+
+summary: |
+Проверка перехода с главной страницы сайта на страницу товара
+status: pass
+
+summary: |
+Проверка работы кнопки "Язык"
+status: pass
+
+summary: |
+Проверка смены языка сайта с русского на английский
+status: pass
+
+summary: |
+Проверка смены языка интерфейса сайта
+status: pass
+
+summary: |
+Отображение иконок флага на кнопках "English" и "Russian"
+status: fail
+
+summary: |
+Проверка работы поля "Поиск"
+status: fail
+
+summary: |
+Проверка смены языка описания товаров
+status: fail
+    
+summary: |
+Проверка добавления одной штуки товара в корзину
+status: fail
+
+summary: |
+Проверка работы поля "Категории"
+status: pass
+
+summary: |
+Проверка сортировки товаров по критерию "Категории"
+status: pass
+
+summary: |
+Проверка фильтрации товаров по критерию "Производитель"
+status: pass
+
+summary: |
+Проверка работы кнопки "В наличии"
+status: pass
+
+summary: |
+Проверка работы кнопки "Next"
+status: pass
+
+summary: |
+Проверка работы кнопки "Pervious"
+status: pass
+
+summary: |
+Проверка работы кнопки "Продолжить покупки"
+status: pass
+
+summary: |
+Проверка работы кнопки "Очистить корзину"
+status: pass
+
+summary: |
+Проверка работы кнопки "Удалить"
+status: pass
+
+summary: |
+Проверка работы кнопки "Оформить заказ"
+status: pass
+
+summary: |
+Проверка работы фильтра "Цена"
+status: pass
